@@ -1,2 +1,2 @@
 # Numerical-mathematics
-Numerical mathematics algorithms coded with C
+Here are some numerical analysis algorithms coded in C
