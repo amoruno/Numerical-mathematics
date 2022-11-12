@@ -9,14 +9,14 @@ Here you will find some numerical mathematics and algorithms problems I solved i
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-### Geometric-median
+### Geometric median
 
 Let $n, m \ge 1$ two fixed natural numbers. Given $m$ points in $\mathbb{R}^n$, $q^{(j)}$ $\forall j = 0,...,m-1$, define the **geometric median** as the point $x \in \mathbb{R}^n$ for which it verifies $f(x) \leq f(z)$ $\forall z \in \mathbb{R}^n$, where the function $f: \mathbb{R}^n \to \mathbb{R}$ is defined by $f(x) = \sum_{0 \leq j \leq m-1} d(x, q^{(j)})$
 
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/109459201/179391883-828cf6d9-a9d0-4123-b8d1-a41b38b4864f.png">
 
 
-# Cycles of a permutation
+### Cycles of a permutation
 
 Given a set $\mathbb{X} =$ {0, 1, ..., n-1}, where $n \in \mathbb{N}$, if $P$ is a permutation from the set $\mathbb{X}$, we will check that:
 
