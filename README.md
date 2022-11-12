@@ -5,7 +5,7 @@ Here you will find some numerical mathematics and algorithms problems I solved i
 ## Index
 
 1. [Geometric median](#Geometric-median): programming of a numerical iterative algorithm to compute the geometric median of any given set of points in $\mathbb{R}^n$.
-2. [Cycles of a permutation](#Cycles-of-a-permutation)
+2. [Cycles of a permutation](#Cycles-of-a-permutation): check that a permutation of a given set is correct and print all its associated cycles.
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
