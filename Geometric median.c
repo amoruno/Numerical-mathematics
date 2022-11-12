@@ -1,3 +1,6 @@
+# Aitor Moruno 
+# 15JUL2022
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
