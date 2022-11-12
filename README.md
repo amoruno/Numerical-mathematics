@@ -3,13 +3,9 @@
 Here you will find some numerical mathematics and algorithms problems I solved in C. The mathematical setup of the problem is posed and the reasoning of the solution proposed. Tools on: dynamic memory allocation, structs, dynamic structs, are widely used in the solutions.
 
 ## Index
-[Geometric median](###Geometric median)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="Geometric median"/>
 
 - [Topic](#Topic )
-  * [Foo & Bar](#foo--bar)
+  * [Geometric median](#Geometric median)
 
 ### Foo-bar
 
